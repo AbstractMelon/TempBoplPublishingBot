@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "nodemon": "^3.1.0"
+  },
+  "name": "tempboplpublishingbot",
+  "description": "this is a temp bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
