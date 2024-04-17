@@ -1,0 +1,50 @@
+[
+  {
+    "author": "willioum",
+    "authorid": "849352011441897513",
+    "modName": "i",
+    "version": "test",
+    "modLink": "testing",
+    "description": "the test",
+    "UserData": {
+      "id": "849352011441897513",
+      "bot": false,
+      "system": false,
+      "flags": 128,
+      "username": "willioum",
+      "globalName": "William Afton but communism",
+      "discriminator": "0",
+      "avatar": "e62e937d8e1cd099de1535dc66488605",
+      "avatarDecoration": null,
+      "createdTimestamp": 1622571699725,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "tag": "willioum",
+      "avatarURL": "https://cdn.discordapp.com/avatars/849352011441897513/e62e937d8e1cd099de1535dc66488605.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/849352011441897513/e62e937d8e1cd099de1535dc66488605.webp"
+    }
+  },
+  {
+    "author": "willioum",
+    "authorid": "849352011441897513",
+    "modName": "testing",
+    "version": "the",
+    "modLink": "tester",
+    "description": "test",
+    "UserData": {
+      "id": "849352011441897513",
+      "bot": false,
+      "system": false,
+      "flags": 128,
+      "username": "willioum",
+      "globalName": "William Afton but communism",
+      "discriminator": "0",
+      "avatar": "e62e937d8e1cd099de1535dc66488605",
+      "avatarDecoration": null,
+      "createdTimestamp": 1622571699725,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "tag": "willioum",
+      "avatarURL": "https://cdn.discordapp.com/avatars/849352011441897513/e62e937d8e1cd099de1535dc66488605.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/849352011441897513/e62e937d8e1cd099de1535dc66488605.webp"
+    }
+  }
+]
